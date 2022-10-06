@@ -1,8 +1,9 @@
 # KODLUYORUZ  ILK REPO
 Kodluyoruz Veri Bilimi Eğitimi Kapsamında Açılan İlk Repo
+![github](gitfoto/ekrangorseli.jpg)
 
 **Merhaba Benim Adım Ayse**
-yazılıma abaşaladığımda yazdığım ilk kod
+yazılıma başladığımda yazdığım ilk kod
 
 `print("Hello, World!");`  idi
 
